@@ -1,0 +1,18 @@
+# Тестовое задание: самый высокий супергерой
+
+Создайте виртуальное окружение:
+   ```powershell
+   python -m venv env
+
+Активируйте его:
+    ```powershell
+    env\Scripts\activate
+
+Установите зависимости:
+    ```powershell
+    pip install -r requirements.txt
+
+Запуск тестов
+Из корня проекта:
+    ```powershell
+    python -m pytest -v
